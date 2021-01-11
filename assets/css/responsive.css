@@ -16,7 +16,7 @@
 	}
 
 	.hero img {
-		height: 500px;
+		max-height: 500px;
 	}
 
 	/* SITEMAIN
@@ -65,7 +65,8 @@
 	}
 
 	.hero img {
-		height: 420px;
+		display:none;
+		max-height: 350px;
 	}
 
 	/* SITEMAIN
@@ -155,6 +156,10 @@
 	/* Margin and Paddings Resets */
 	.mt-x-0 {
 	    margin-top: 0;
+	}
+
+	.hero img {
+	display:none;
 	}
 
 	/* HEADER
