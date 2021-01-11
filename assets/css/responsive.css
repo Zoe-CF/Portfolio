@@ -23,6 +23,9 @@
 	.modal-header {
 		height: 400px;
 	}
+
+	.basr-social-share {
+		display: inline-block;}
 }
 
 
@@ -71,6 +74,10 @@
 	================================================== */
 	.site-section {
 		padding-top: 90px;
+	}
+
+	.site-main {
+		margin-top: -450px;
 	}
 
 	.section-skills,
