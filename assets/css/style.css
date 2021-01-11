@@ -648,6 +648,7 @@ Social
   }
   
   .social ul {
+    width: 100%;
     list-style: none;
     padding-left: 0;
     padding-right: 0;
