@@ -1,6 +1,4 @@
-/*==========  Non-Mobile First Method  ==========*/
 
-/* Large Devices, Wide Screens */
 @media only screen and (max-width : 1199px) {
 	/* HEADER
 	================================================== */
@@ -27,7 +25,7 @@
 	}
 }
 
-/* Medium Devices, Desktops */
+
 @media only screen and (max-width : 991px) {
 	/* CUSTOM RESETS
 	================================================== */
@@ -133,7 +131,7 @@
 	}
 }
 
-/* Small Devices, Tablets */
+
 @media only screen and (max-width : 767px) {
 	/* CUSTOM RESETS
 	================================================== */
